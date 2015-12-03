@@ -1,1 +1,9 @@
-
+.main {
+    margin: 0 auto;
+    width: 50%;
+    color:black;
+    
+}
+body{
+    background-color:beige;
+}
